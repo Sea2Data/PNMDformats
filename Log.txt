@@ -1,0 +1,6 @@
+
+12.04.2018:
+	Examplefile has been added to the project
+	Code has been adapted to the structure of the example file
+	Minor bug fix
+	Restructured code
